@@ -57,7 +57,7 @@ document.querySelector('#target').innerHTML = '<p>Purposely unsafe:</p>' + t8.ra
 ```
 ## Installation 
 
-This huge package, thanks to the most advanced AI technologies, is highly compressed to a single js file [here](#src/t8.js) so just copy &amp; past it... somewhere.
+This huge package, thanks to the most advanced AI technologies, is highly compressed to a single js file [here](blob/master/src/t8.js) so just copy &amp; past it... somewhere.
 
 ## Notes &amp; references
 

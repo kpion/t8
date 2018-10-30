@@ -1,14 +1,5 @@
 # T8 - Sanitize HTML
 
-Safe HTML  injection with .innerHTML &amp; .insertAdjacentHTML &amp; friends.
-
-As simple as 
-
-``` document.querySelector('#target').innerHTML = t8.sane('<p>Hello {what}!</p>',{what: 'World'}); ```
-
-See [Demo](https://jsfiddle.net/kpion/wfzqvtmd/)
-
-
 **As not seen on...**
 
 <img src = 'stuff/images/media-logos.png'>
@@ -19,13 +10,21 @@ See [Demo](https://jsfiddle.net/kpion/wfzqvtmd/)
 
 \~The author.
 
-
-
 **Almost 1 million downloads a month\***
 
 <sub>\* about literally two to be exact.</sub>
 
+**Introducing T8!!!**
+
 ## Introduction
+
+Safe HTML  injection with .innerHTML &amp; .insertAdjacentHTML &amp; friends.
+
+As simple as 
+
+``` document.querySelector('#target').innerHTML = t8.sane('<p>Hello {what}!</p>',{what: 'World'}); ```
+
+See [Demo](https://jsfiddle.net/kpion/wfzqvtmd/)
 
 You can't simply get some user input and make a HTML out, of it due to XSS. Hence the common solution is to use .appenchChild to add DOM Element, and .textContent to put user input into it.
 

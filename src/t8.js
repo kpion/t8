@@ -45,7 +45,7 @@ const t8 = {
     Internal use only utility. 
     Given a string "person.name" and an object {person: {name: 'John'}} will return the value, "John".
     */
-	objPath (keyChain, obj) {
+    objPath (keyChain, obj) {
         let cur = obj;
         for (var index = 0;index < keyChain.length; index++) {
             let key = keyChain[index];

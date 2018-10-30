@@ -4,11 +4,9 @@
 
 <img src = 'stuff/images/media-logos.png'>
 
+***"Innovative, compelling, visionary"*** 
 
-
-> "Innovative, compelling, visionary" 
-
-\~The author.
+<sub>\~The author.</sub>
 
 **Almost 1 million downloads a month\***
 

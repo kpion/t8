@@ -8,6 +8,23 @@ As simple as
 
 See [Demo](https://jsfiddle.net/kpion/wfzqvtmd/)
 
+**As not seen on**
+
+
+<img src = 'stuff/images/media-logos/bbc.jpeg' style = 'width:96px;margin-right:30px'>
+
+<img src = 'stuff/images/media-logos/cnn.png' style = 'width:96px;margin-right:30px;margin-bottom:24px'>
+
+<img src = 'stuff/images/media-logos/fox-news.png' style = 'width:96px'>
+
+
+> "Innovative, compelling, visionary" 
+
+\~The author.
+
+**Almost 1 million downloads a month\***
+
+<sub>\* about literally two to be exact.</sub>
 
 ## Introduction
 
